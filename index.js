@@ -52,6 +52,6 @@ function verifyPin()
     {
         
         fail.style.display = 'block';
-        success.style.display = 'block';
+        success.style.display = 'none';
     }
 }
